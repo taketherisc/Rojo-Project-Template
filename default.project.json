@@ -1,0 +1,26 @@
+{
+    "name": "Untitled Ghost Hunting Game",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "Shared": {
+                "$path": "Source/Shared"
+            }
+        },
+
+        "ServerScriptService": {
+            "Server": {
+                "$path": "Source/Server"
+            }
+        },
+
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "Client": {
+                    "$path": "Source/Client"
+                }
+            }
+        }
+    }
+}

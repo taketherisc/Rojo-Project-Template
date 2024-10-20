@@ -1,0 +1,18 @@
+# Project place file
+/Untitled Ghost Hunting Game.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Generate: "selene generate-roblox-std"
+# Might want to update the standard library first, use "selene update-roblox-std"
+/roblox.yml
+
+# Generate: "rojo sourcemap --watch default.project.json --output sourcemap.json"
+/sourcemap.json
+
+# Generate: "zap config.zap"
+/Events
+
+/.vscode
