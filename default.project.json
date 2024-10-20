@@ -6,12 +6,21 @@
         "ReplicatedStorage": {
             "Shared": {
                 "$path": "Source/Shared"
+            },
+            "Libraries": {
+                "$path": "Libraries/Include"
             }
         },
 
         "ServerScriptService": {
             "Server": {
                 "$path": "Source/Server"
+            }
+        },
+
+        "ServerStorage": {
+            "Libraries": {
+                "$path": "Libraries/Store"
             }
         },
 
