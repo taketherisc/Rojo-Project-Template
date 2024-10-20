@@ -1,1 +1,1 @@
-Add libraries from other authors in ths folder which can be used only bythe server.
+Add libraries from other authors in ths folder which can be used only by the server.
